@@ -1,0 +1,12 @@
+{
+  "name": "Focus Nook",
+  "short_name": "Focus Nook",
+  "description": "A calm, cozy study timer for focused work.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6eee5",
+  "theme_color": "#ec6f98",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
